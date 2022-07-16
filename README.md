@@ -4,3 +4,6 @@ Accelerometer data was self-collected from 11 male gym trainees from a local gym
 This dataset was recorded for my Final year bachelor's project.
 
 The corresponding final year report and corresponding defense of my idea is provided too.
+
+
+![image](https://user-images.githubusercontent.com/47445756/179345030-21282e6e-eca6-4910-817c-98a9e180d141.png)
